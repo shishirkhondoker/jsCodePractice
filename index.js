@@ -1,8 +1,8 @@
-//calculateDifference 
+//1.calculateDifference 
 function calculateDifference (a, b){
     return a - b;
 }
-console.log("calculateDifference : "+ calculateDifference(10,5));
+console.log("calculateDifference : ", calculateDifference(10,5));
 //2.isOdd
 
 function isOdd(a){
